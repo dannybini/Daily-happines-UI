@@ -50,7 +50,7 @@ class ProfilePage extends StatelessWidget {
                             child: Icon(Icons.person),
                           ),
                           Text(
-                            "Biniyam Nebr0",
+                            "Daniel Biniam",
                             style: TextWidgets.middleWhiteText(),
                           ),
                           Text(
